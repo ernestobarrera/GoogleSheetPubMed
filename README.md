@@ -1,2 +1,0 @@
-# GoogleSheetPubMed
-Versión 1
