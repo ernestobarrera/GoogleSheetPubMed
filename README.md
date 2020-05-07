@@ -4,7 +4,7 @@ Plantilla de Google Sheet (hojas de cálculo en Google Drive) para construir y g
 
 ## Autor
 Ernesto Barrera
-[Ernestob](https://twitter.com/ernestob)<img src=imagenes/ernestobIcon.png>
+ [Ernestob](https://twitter.com/ernestob)<img src=imagenes/ernestobIcon.png>
 
 ## Cómo funciona
 
